@@ -1,4 +1,4 @@
-# bmc-sc
+# bmc-cpt-scoring
 BuG Maker Club's Competition-Scoring system
 
 ## What's this
