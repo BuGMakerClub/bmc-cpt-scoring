@@ -1,2 +1,2 @@
 # bmc-sc
-BuG Maker Club's Scoring-Competition
+BuG Maker Club's Competition-Scoring system
